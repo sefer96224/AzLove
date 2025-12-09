@@ -224,3 +224,4 @@ def send_profile_to_user(user_id, profile_user_id):
 
 
 bot.polling(non_stop=True)
+Bu layihə Sefer tərəfindən öyrənmə məqsədilə yaradılmışdır. 🚀
